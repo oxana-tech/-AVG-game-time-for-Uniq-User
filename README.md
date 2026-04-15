@@ -1,7 +1,7 @@
 # AVG game time for Uniq User
-Overview
+Overview :
 This project analyzes the behavior of players on a mobile/online gaming platform from March to December 2022, based on 44,011 records of gaming activity from 216 unique users. The Tableau dashboard focuses on a key engagement metric—average playtime—and its relationship with Battle Pass conversion, age groups, and monthly trends. This is a typical product analytics dashboard for a gaming company, where retention and monetization are directly dependent on time spent in-game.
-Business Value
+Business Value:
 The dashboard answers questions from the product and growth teams:
 
 Is player engagement growing over time?
